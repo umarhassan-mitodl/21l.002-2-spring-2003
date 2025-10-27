@@ -1,0 +1,25 @@
+---
+content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
+title: Syllabus
+uid: e2a90850-9906-80e9-f39b-a6885d7055a8
+---
+
+Course Meeting Times
+--------------------
+
+Lectures: 2 sessions / week, 1.5 hours / session
+
+Course Description
+------------------
+
+This subject offers a broad survey of texts (both literary and philosophical) drawn from the Western tradition and selected to trace the growth of ideas about the nature of mankind's ethical and political life in the West since the renaissance. It will deal with the change in perspective imposed by scientific ideas, the general loss of a supernatural or religious perspective upon human events, and the effects for good or ill of the increasing authority of an intelligence uninformed by religion as a guide to life. The readings are roughly complementary to the readings in 21L001, and classroom discussion will stress appreciation and analysis of texts that came to represent the cultural heritage of the modern world.
+
+Readings begin with excerpts from Machiavelli's _The Prince_, which advises the ruler that the end justifies the means and that it is necessary for leaders to "learn how not to be good." We follow with More's _Utopia_, an account of life in a "parallel world" to the real one, a world in which Christianity never happened. Later we read another book that take place "Nowhere", Jonathan Swift's re-imagining of More's text, _Gulliver's Travels_. More is succeeded by excerpts from the essays of Montaigne, who invented the form that we now call the "essay", and who, it is often said to be invented the modern sense of self-consciousness, that is, of simply being our own particular self, regardless of inherited or achieved social identities, in a changeful world. Machiavellianism is put to some examination in _King Lear_, arguably Shakespeare's central tragedy, which examines the sources of political and moral authority in a pre-Christian world. Further readings include: Thomas Hobbes's _Leviathan_ (1651), an extraordinary account of human beings as nothing but calculating machines, which traces the implications this view for political and ethical life; Rousseau's _On the Origins of Inequality_ which transformed current ideas about human nature and was an important source for the ideologues of the French Revolution; readings from Wordsworth's _Prelude_, perhaps the first thoroughly modern poem and the major source in the nineteenth century for the idea that a right relation to its natural environment was essential for humanity's ethical life; excerpts from Immanuel Kant's _The Metaphysical Foundation_ of _Morals_, in which Kant argues the case that reason alone is sufficient as guide to the moral life; Jane Austen's classic social novel, _Pride and Prejudice_ and Balzac's _Père Goriot_, which makes a case for a-morality in an immoral world. We conclude with two texts: Friedrich Nietzsche's _Genealogy of Morals_, an extended argument against the validity of the concept "evil" and George Bernard Shaw's _Major Barbara_, a social comedy about the conflict between religious conviction and worldliness.
+
+Course Format
+-------------
+
+The subject meets twice a week for two one-and-a-half sessions. Each session begins with a lecture of varying length, but changes over early into general discussion. Active participation in discussion is essential to the life of the class and the force and cogency of students' remarks will have a marked influence on grades. Readings will total approximately seventy-five pages a week, sometimes more, sometimes less. Much of the grade will also depend upon the quality of the three written assignments required by the course, and spaced fairly evenly over the term: the papers will total twenty pages in entirety, two papers running to at least six pages each and a final paper running to at least eight pages. The papers will each deal with some aspect of the readings and discussion; topics may be invented by the students but an extensive list of suggested topics will be circulated two weeks in advance of each paper's due date for those students who require it. The first of these papers will be rewritten upon its return and resubmitted in a form complaint with corrections made by the instruction on the pages of the first version. The second paper may be treated in the same way, depending upon the instructor's judgment. The subject will also offer students opportunity for oral expression by reason of (a) its discussion format and (b) a division into groups of two or three students (depending upon enrollment), each of which will make two fifteen-minute presentations of materials conducive to the discussion of a given assignment, following the model of such presentations offered by the instructor at the outset of the term. The maximum number of students per section of this subject is 18, except in cases where there are no sections and where a writing fellow is attached to the subject, in which case the enrollment can rise to 25. There will be no final examination.

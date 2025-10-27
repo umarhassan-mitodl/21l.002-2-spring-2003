@@ -1,0 +1,62 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Humanities",
+      "Philosophy"
+    ]
+  ],
+  "legacy_uid": "b155ea05-4751-1ad4-7028-86fbfdc84d90",
+  "instructors": {
+    "content": [
+      "574de813-0133-dfd1-1f1f-74ababe0ad61"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3a4237e0-1c2d-66e5-2c76-f0637ecc25f7",
+    "website": "21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003"
+  },
+  "course_title": "Foundations of Western Culture II: Renaissance to Modernity",
+  "course_description": "This subject offers a broad survey of texts (both literary and philosophical) drawn from the Western tradition and selected to trace the growth of ideas about the nature of mankind's ethical and political life in the West since the renaissance. It will deal with the change in perspective imposed by scientific ideas, the general loss of a supernatural or religious perspective upon human events, and the effects for good or ill of the increasing authority of\u00a0an intelligence uninformed by religion as a guide to life.\u00a0The readings are roughly complementary to the readings in 21L001, and classroom discussion will stress appreciation and analysis of texts that came to represent the cultural heritage of the modern world.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.002-2",
+  "course_image_thumbnail": {
+    "content": "df1ad9ef-5922-0ff5-b877-b97c5c22593c",
+    "website": "21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "6c076727-03a8-41a6-b59a-54af5a498852",
+  "site_short_id": "21l.002-2-spring-2003",
+  "site_url_path": "courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003",
+  "title": "Course Metadata"
+}
